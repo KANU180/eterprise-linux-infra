@@ -4,10 +4,10 @@
 This project demonstrates a real-world Linux server infrastructure setup used in enterprise environments.
 
 ## Architecture
-Main Server (Reverse Proxy) - 192.168.56.10  
-Web Server - 192.168.56.20  
-Monitoring Server (Prometheus + Grafana) - 192.168.56.30  
-Backup Server (rsync automation) - 192.168.56.40  
+Main Server (Reverse Proxy) - 192.168.198.144  
+Web Server - 192.168.56.101  
+Monitoring Server (Prometheus + Grafana) - 192.168.56.102  
+Backup Server (rsync automation) - 192.168.56.103  
 
 ## Technologies Used
 - Linux
