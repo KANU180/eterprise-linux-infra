@@ -29,10 +29,10 @@ Backup Server (rsync automation) - 192.168.56.40
 ## Screenshots
 
 ### Nginx Web Server
-![Nginx Web Server](docs/screenshots/nginx.png)
+![Nginx Web Server](screenshots/nginx.png)
 
 ### Prometheus Monitoring
-![Prometheus Monitoring](docs/screenshots/prometheus.png)
+![Prometheus Monitoring](screenshots/prometheus.png)
 
 ### Grafana Dashboard
 ![Grafana Dashboard](docs/screenshots/grafana.png)
