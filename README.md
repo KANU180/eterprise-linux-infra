@@ -35,7 +35,7 @@ Backup Server (rsync automation) - 192.168.56.40
 ![Prometheus Monitoring](screenshots/prometheus.png)
 
 ### Grafana Dashboard
-![Grafana Dashboard](docs/screenshots/grafana.png)
+![Grafana Dashboard](screenshots/grafana.png)
 
 ### Backup Automation
-![Backup Automation](docs/screenshots/backup.png)
+![Backup Automation](screenshots/backup.png)
